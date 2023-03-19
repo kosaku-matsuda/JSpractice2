@@ -2,14 +2,14 @@
 {
 
 	const images = [
-		"img/img/pic00.png",
-		"img/img/pic01.png",
-		"img/img/pic02.png",
-		"img/img/pic03.png",
-		"img/img/pic04.png",
-		"img/img/pic05.png",
-		"img/img/pic06.png",
-		"img/img/pic07.png",
+		"https://github.com/kosaku-matsuda/JSpractice3/blob/main/img/pic00.png?raw=true,
+		"https://github.com/kosaku-matsuda/JSpractice3/blob/main/img/pic01.png?raw=true,
+		"https://github.com/kosaku-matsuda/JSpractice3/blob/main/img/pic02.png?raw=true,
+		"https://github.com/kosaku-matsuda/JSpractice3/blob/main/img/pic03.png?raw=true,
+		"https://github.com/kosaku-matsuda/JSpractice3/blob/main/img/pic04.png?raw=true,
+		"https://github.com/kosaku-matsuda/JSpractice3/blob/main/img/pic05.png?raw=true,
+		"https://github.com/kosaku-matsuda/JSpractice3/blob/main/img/pic06.png?raw=true,
+		"https://github.com/kosaku-matsuda/JSpractice3/blob/main/img/pic07.png?raw=true
 	];
 
 	let currentIndex = 0;
