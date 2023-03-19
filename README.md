@@ -1,2 +1,2 @@
-# JSpractice3
+# JSpractice2
 JavaScriptでdom操作を使いスライドショーを作る練習をしました。
