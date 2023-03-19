@@ -1,2 +1,2 @@
 # JSpractice3
-JavaScriptでdom操作を使い練習をしま。
+JavaScriptでdom操作を使いスライドショーを作る練習をしました。
